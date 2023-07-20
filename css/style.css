@@ -1,0 +1,30 @@
+body {
+    background-image: url(../images/bground.jpg);
+}
+
+table.main {
+    background-color: white;
+    margin: 0 auto;
+    width: 80%;
+}
+
+thead img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+table.f {
+    width: 100%;
+    background-color: #0a6fa3;
+}

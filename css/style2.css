@@ -1,0 +1,16 @@
+thead {
+    background-image: url(../images/bground.jpg);
+}
+
+table.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table.sub {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
